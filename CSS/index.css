@@ -42,8 +42,8 @@ body {
   align-items: center;
   flex-direction: column;
   background-color: #f1f1f1;
-  color: #333;
-  font-family: 'PT Sans', sans-serif;
+  color: blue;
+  font-family: 'PT Sans', sans-serjif;
 }
 .top-bar {
   width: 100%;
