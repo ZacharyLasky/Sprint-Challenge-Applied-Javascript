@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The dom is an API that javascript can use to create events and event listeners.
+
 2. What is an event?
+
+An event is something that is created to create changes upon user actions in a website.
 
 3. What is an event listener?
 
+An event listener listens to a user action such as a click and then changes or toggles something on the webpage.
+
 4. Why would we convert a NodeList into an Array?
 
+You would convert a NodeList into an array to access more array methods like "Map" and "Filter". 
+
 5. What is a component?
+
+A component is an object that is created to affect multiple items on a webpage. This way, you can use the "DRY" principle and not have to create individual event listeners on each item.
 
 ### Git Set up
 
